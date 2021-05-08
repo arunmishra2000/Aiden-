@@ -56,6 +56,7 @@ Google Firebase Realtime DB
 Used Argon open-source template for dashboard
 
 **Challenges I ran into**
+
 I was relatively new to GCP so a huge chunk of my time was involved in learning how to deploy the SER model on GCP.
 Pre-processing phase was difficult since I had to convert Stereo-type audio to Mono-type.
 This was also my first time implementing an IVR using IBM Watson Assistant. The phone integration part proved to be a monumental task.
@@ -64,5 +65,40 @@ This was also my first time implementing an IVR using IBM Watson Assistant. The 
 
 My first priority is to work on the security aspects of this platform. We realise the sensitive data that this platform will hold. Thus, we're planning to look into Private AI by OpenMined as well as other security measures that we can take.
 Support for multiple languages.
+
+**Snapshots**
+
+<p align="center">
+  <img src="./Images/1111.JPG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./Images/2222.JPG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./Images/3333.JPG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./Images/accuracy.PNG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./Images/audio_signal.PNG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./Images/feature extraction.PNG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./Images/spectogram.PNG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./Images/waveform.PNG" alt="Size Limit CLI" width="738">
+</p>
+
 
 
