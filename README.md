@@ -65,6 +65,4 @@ This was also my first time implementing an IVR using IBM Watson Assistant. The 
 My first priority is to work on the security aspects of this platform. We realise the sensitive data that this platform will hold. Thus, we're planning to look into Private AI by OpenMined as well as other security measures that we can take.
 Support for multiple languages.
 
-Link:
 
-https://myfriendaiden.web.app
