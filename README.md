@@ -1,16 +1,16 @@
-### Aiden
+# Aiden
 
 ## An AI-based Interactive Voice Response (IVR) system trained to help you with depressive episodes and anxiety using Cognitive Behavioral Therapy (CBT) and, other evidence-based techniques.
 
-# Inspiration
+## Inspiration
 
 About 4 months ago, I came to know that one of my closest friends has been diagnosed with clinical depression. Having spent the majority of my time together, it never really struck me that the guy I loved hanging around with needed some emotional support throughout this time. That's when I set out to learn about self-care habits, mental wellbeing techniques, and the sheer importance of mental health in our lives. 4 months later, my friend is back to being the happy soul he was - but a lot of people can't recover that quickly (or recover at all). Hence, I got inspired to develop a platform wherein anybody - irrespective of their socio-economic background, could use this platform and take their first steps for their pursuit towards a healthier mind!
 
-# What it does
+## What it does
 
 Aiden is an AI-based IVR trained to handle depressive episodes, help with anxiety or just simply talk to you using Solution-Focused Brief Therapy (SFBT) methods and other evidence-based techniques. The end-users just have to make a phone call and Aiden picks up the call to assist them. This type of infrastructure requires no internet connection or "smart" devices - just a simple device that can make calls. Thus, making mental health therapy accessible to more people! Our team firmly believes in the idea, "You can't control something if you can't measure it." Thus, Aiden comes packed with a powerful web dashboard that displays meaningful analytics and charts that can be used to track the progress of the end-users so they can strive for improvement. The IVR system grants Aiden an advantage that existing products in the market do not possess - voice audio feedback of end-users. This audio feedback, coupled with the transcript of the user's conversation with Aiden is passed into a Speech Emotion Recognition (SER) model which then determines the emotion of the conversation. Audio-based data is of high importance as text-based emotion recognition can sometimes be misleading but the voice of the end-user can tell us a whole different story! Furthermore, Aiden has an integration with the Facebook messenger that allows it to cater to the younger generations or anyone who prefers to text over calls.
 
-# Key Benefits:
+## Key Benefits:
 
 Highly scalable with no hardware dependencies and easy to deploy software. Our app can reach people who aren't well-versed with technology.
 It can be immediately deployed and can handle multiple calls simultaneously.
@@ -21,7 +21,7 @@ Accessible through the Facebook messenger app for user's convenience.
 Uses audio and text transcripts to determine the behavioral and emotional state of the end-users.
 Therapists can benefit from the analytics displayed in the web dashboard and can use that knowledge to direct their therapy practices. (therapists shall gain access to a user's dashboard only with their consent)
 
-# ML Model Development Pipeline
+## ML Model Development Pipeline
 
 **Speech Emotion Recognition (SER)**
 
@@ -65,6 +65,10 @@ This was also my first time implementing an IVR using IBM Watson Assistant. The 
 
 My first priority is to work on the security aspects of this platform. We realise the sensitive data that this platform will hold. Thus, we're planning to look into Private AI by OpenMined as well as other security measures that we can take.
 Support for multiple languages.
+
+**Link **
+
+https://condescending-joliot-73e786.netlify.app/
 
 **Snapshots**
 
